@@ -1,7 +1,7 @@
 import "./App.css";
 import Box from "./Box";
 
-function Prac(){
+function App(){
   return (
     <>
       <h1 className="title">제목</h1>
@@ -35,13 +35,9 @@ function Prac(){
 
         <div className="block-down">블록의 하위 요소</div>
     </>
-  )
-
-}
-function App(){
-  return (
-    <Box></Box>
   );
+
+
 }
 
 export default App;
