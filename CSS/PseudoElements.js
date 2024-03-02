@@ -1,7 +1,7 @@
 import "./PseudoElements.css";
 
 
-function Flex(){
+function PseudoElements(){
 
     return(
         <div>
