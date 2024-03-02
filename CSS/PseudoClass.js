@@ -1,7 +1,7 @@
-import "./flex.css";
+import "./PseudoClass.css";
 
 
-function Flex(){
+function PseudoClass(){
 
     return(
         <div>
@@ -21,4 +21,4 @@ function Flex(){
     );
 }
 
-export default Flex;
+export default PseudoClass;
